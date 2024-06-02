@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System.Collections.Generic;
 
-namespace CW8.Configurations
+namespace Configurations
 {
     public class Prescription_MedicamentConfiguration : IEntityTypeConfiguration<Prescription_Medicament>
     {

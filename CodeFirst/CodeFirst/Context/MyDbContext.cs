@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Migrations
 {
-    partial class MyDbContext : DbContext
+    partial class MyContext : DbContext
     {
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

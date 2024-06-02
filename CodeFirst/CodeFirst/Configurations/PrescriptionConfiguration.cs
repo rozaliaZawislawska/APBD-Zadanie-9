@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CW8.Configurations
+namespace Configurations
 {
     public class PrescriptionConfiguration : IEntityTypeConfiguration<Prescription>
     {
